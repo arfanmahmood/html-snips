@@ -5,7 +5,3 @@ Repository will be used for basic html templates. Main objective is to quick sta
 ## starter-template.html
 
 Comes with basic but necessary meta tags and latest bootstrap source.
-
-## reset.css
-
-Copying it from http://meyerweb.com/eric/tools/css/reset/. It's an useful file to resets the styling of all HTML elements to a consistent baseline.
