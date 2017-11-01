@@ -5,3 +5,11 @@ Repository will be used for basic html templates. Main objective is to quick sta
 ## starter-template.html
 
 Comes with basic but necessary meta tags and latest bootstrap source.
+
+## Animation CSS
+
+Included animation css from http://daneden.github.io/animate.css.
+
+## Font Awesome
+
+Included font awesome icons library.
